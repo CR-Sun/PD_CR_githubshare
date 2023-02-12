@@ -1,0 +1,1 @@
+model = My_model(22,[256,512,512],2,GCNtype = 'MGN')  # output 4 cuz shearstress xyz and p

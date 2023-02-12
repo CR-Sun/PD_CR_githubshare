@@ -1,0 +1,1 @@
+model = My_model(22,[256,256,256],2,GCNtype = 'MGN')  # exp3
